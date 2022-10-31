@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rick&amp;Morty</string>
+    <string name="title_characters">Characters</string>
+    <string name="title_character_detail">Character Detail</string>
+    <string name="label_specie">Specie:</string>
+    <string name="label_gender">Gender:</string>
+    <string name="label_type">Type:</string>
+    <string name="title_filter">Filter</string>
+    <string name="label_name">Name</string>
+    <string name="label_status">Status</string>
+    <string name="text_button_alive">alive</string>
+    <string name="text_button_dead">dead</string>
+    <string name="text_button_unknown">unknown</string>
+    <string name="text_button_filter">filter</string>
+</resources>
